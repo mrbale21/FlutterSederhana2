@@ -1,6 +1,6 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/113486720/231604791-4cc8f392-a544-467e-8bb2-93b6ba9939f8.png" height=250 width=250 </img></div>
 
-# <div align="center">Tugas Flutter 2</div>
+# <div align="center">Flutter Sederhana 2</div>
 Membuat Slicing ui dan navigasi yang dibangun dengan menggunakan Flutter
 
 <img style = "max-width= 100%;" alt="image" src="https://user-images.githubusercontent.com/113486720/231608176-5677cdec-2f70-4aae-b17b-6ba8b57b871b.png">
