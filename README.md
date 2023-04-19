@@ -31,4 +31,4 @@ Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam
 ![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_profil-view.jpeg)
 
 + **Code Screen**
-![image] (https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_code.png)
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_code.png)
