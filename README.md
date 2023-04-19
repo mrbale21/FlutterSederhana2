@@ -20,7 +20,7 @@ Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam
 
 + **Welcome Screen**
 
-![image]([https://user-images.githubusercontent.com/113486720/231603820-15144513-da73-4aaf-9f41-fde83610d1f4.png](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_welcome-view.jpeg))
+![image](https://github.com/mrbale21/FlutterSederhana2/blob/main/ss_hasil-View/ss_welcome-view.jpeg)
 
 + **Home Screen**
 
